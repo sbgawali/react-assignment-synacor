@@ -17,7 +17,7 @@ class ProductDetailPage extends Component {
                         <div><span  className='label'>Category:</span><span>{category}</span></div>
                         <div><span  className='label'>Description:</span><span>Sample description</span></div>
                     </div>
-                    <button onClick={onChangeCallBck}>Back To Listing Page</button>
+                    <button className='bckBtn' onClick={onChangeCallBck}>Back To Listing Page</button>
                </div> 
             </div>
             </React.Fragment>
