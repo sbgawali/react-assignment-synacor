@@ -1,0 +1,51 @@
+[
+    {"products":
+        [
+			  {
+				"id": 1,
+				"name": "Lenovo I3",
+				"categoryId":1
+			  },
+			  {
+				"id": 2,
+				"name": "Acer I7",
+				"categoryId":1 
+			  },
+			  {
+				"id": 3,
+				"name": "Dell I7",
+				"categoryId":1 
+			  },
+			  {
+				"id": 4,
+				"name": "Mi 43 inch",
+				"categoryId":4   
+			  },
+			  {
+				"id": 5,
+				"name": "SAMSUNG A3",
+				"categoryId":2
+			  },{
+				"id": 6,
+				"name": "Artis",
+				"categoryId":3   
+			  },
+			  {
+				"id": 7,
+				"name": "JBL",
+				"categoryId":3   
+			  },
+			  {
+				"id": 8,
+				"name": "Boat",
+				"categoryId":5  
+			  },
+			  {
+				"id": 9,
+				"name": "Skull Candy",
+				"categoryId":5  
+			  }
+]
+ }
+]
+

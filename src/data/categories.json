@@ -1,0 +1,26 @@
+[
+    {"categories":
+        [
+            {
+            "id": 1,
+            "name": "Laptop"
+            },
+            {
+            "id": 2,
+            "name": "Mobile"   
+            },
+            {
+            "id": 3,
+            "name": "Speakers"   
+            },
+            {
+            "id": 4,
+            "name": "TV"   
+            },
+            {
+            "id": 5,
+            "name": "Headphone"   
+            }
+]
+ }
+]
