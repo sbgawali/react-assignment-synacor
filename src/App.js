@@ -10,6 +10,15 @@ import products from './data/products';
 import ProductDetailPage from './ProductDetailPage';
 
 class App extends Component {
+  componentDidMount(){
+    fetch('https://api.covid19india.org/state_district_wise.json')
+    .then((response) => {
+      return response.json();
+    })
+    .then((data) => {
+      console.log(data);
+    });
+  }
   constructor(){
     
     super()
